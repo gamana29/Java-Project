@@ -9,3 +9,4 @@ Use It Anywhere: You can access the Expense Tracker on your computer or even on 
 Overall, the Expense Tracker System is designed to make managing money easier, help you understand your spending habits, and make smarter financial decisions for a more stable and successful future.
 
 
+![image](https://github.com/user-attachments/assets/a3f46b1c-682c-414c-a023-1819c6e28177)
