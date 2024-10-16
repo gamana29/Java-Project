@@ -46,10 +46,13 @@ See Reports and Insights: The system creates reports that show summaries of your
 Keep Your Data Safe: The system uses strong security measures to protect your personal information, like encrypting data and controlling who can access it.
 Use It Anywhere: You can access the Expense Tracker on your computer or even on your phone, so you can keep an eye on your expenses wherever you are. 
 Overall, the Expense Tracker System is designed to make managing money easier, help you understand your spending habits, and make smarter financial decisions for a more stable and successful future.
+## 🛠️ Technology Stack
 
-![GitHub repo size](https://img.shields.io/github/repo-size/username/online-expense-tracker)
-![GitHub contributors](https://img.shields.io/github/contributors/username/online-expense-tracker)
-![GitHub last commit](https://img.shields.io/github/last-commit/username/online-expense-tracker)
-![GitHub issues](https://img.shields.io/github/issues/username/online-expense-tracker)
+- **Backend**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- **Frontend**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- **Database**: ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+- **Server**: ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 ![image](https://github.com/user-attachments/assets/a3f46b1c-682c-414c-a023-1819c6e28177)
