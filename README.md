@@ -47,5 +47,9 @@ Keep Your Data Safe: The system uses strong security measures to protect your pe
 Use It Anywhere: You can access the Expense Tracker on your computer or even on your phone, so you can keep an eye on your expenses wherever you are. 
 Overall, the Expense Tracker System is designed to make managing money easier, help you understand your spending habits, and make smarter financial decisions for a more stable and successful future.
 
+![GitHub repo size](https://img.shields.io/github/repo-size/username/online-expense-tracker)
+![GitHub contributors](https://img.shields.io/github/contributors/username/online-expense-tracker)
+![GitHub last commit](https://img.shields.io/github/last-commit/username/online-expense-tracker)
+![GitHub issues](https://img.shields.io/github/issues/username/online-expense-tracker)
 
 ![image](https://github.com/user-attachments/assets/a3f46b1c-682c-414c-a023-1819c6e28177)
